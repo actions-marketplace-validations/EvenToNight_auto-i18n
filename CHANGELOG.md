@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/EvenToNight/auto-i18n/compare/v1.8.1...v1.9.0) (2026-03-16)
+
+
+### Features
+
+* **i18n:** add check_only mode and pre-commit working tree diff ([aaf3862](https://github.com/EvenToNight/auto-i18n/commit/aaf3862d6cffa5626a28617b5a2a358617a1c9da))
+
 ## [1.8.1](https://github.com/EvenToNight/auto-i18n/compare/v1.8.0...v1.8.1) (2026-03-14)
 
 
